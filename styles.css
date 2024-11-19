@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    background-color: lightblue;
+}
+h2{
+    text-align: center;
+    background-color: rgb(93, 175, 175);
+}
+body{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-emphasis-color: white;
+  text-align:center;
+}
+.p{
+    background-color: blue;
+}
+body {
+    font-family: 'Arial', sans-serif;  
+    font-size: 16px;                   
+    color: #333;                       
+    line-height: 1.6;                  
+    background-color: #f4f4f4;        
+    margin: 0;                         
+    padding: 0;                        
+}
+
+
+
+
+ 
+
